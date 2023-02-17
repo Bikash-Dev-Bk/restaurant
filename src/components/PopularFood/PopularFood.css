@@ -1,0 +1,62 @@
+.Foods-Container{
+    margin: 216px 220px 0;  
+}
+
+.Foods-Header{
+    text-align: center;
+    font-size: 54px;
+}
+.Foods-Desc{
+    text-align: center;
+    font-size: 28px;
+}
+
+.Meal-Container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    gap: 24px;
+    
+}
+.Meal{
+    margin-top: 200px;
+    background-image: url("../../assets/images/pngegg\ \(10\)\ 2.png");
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 40px 32px;
+}
+.Meal-Header{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    
+}
+.Meal-img{
+    position: absolute;
+    bottom: 20px;
+    left:190px;
+}
+.Meal-Info{
+    text-align: center;
+}
+
+.Meal-Title{
+    font-size: 32px;
+}
+.Meal-Desc{
+    font-size: 22px;
+}
+
+.Foods-Footer{
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+}
+.Golden-Color{
+    color: #AC8435;
+}
+
+.Button-SeeAll{
+    text-align: center;
+    margin-top: 64px;
+}

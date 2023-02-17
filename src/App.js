@@ -3,6 +3,7 @@ import AboutUs from './components/AboutUs/AboutUs';
 import Banner from './components/Banner/Banner';
 import Header from './components/Header/Header';
 import Offer from './components/Offer/Offer';
+import PopularFood from './components/PopularFood/PopularFood';
 import PopularDrinks from './components/PopulerDrinks/PopularDrinks';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Offer></Offer>
       <AboutUs></AboutUs>
       <PopularDrinks></PopularDrinks>
+      <PopularFood></PopularFood>
     </div>
   );
 }
