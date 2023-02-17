@@ -1,5 +1,6 @@
 import React from "react";
 import BannerImg from "../../../assets/images/banner.png";
+import Button from "../../Button/Button";
 import './Hero.css';
 
 const Hero = () => {
@@ -15,7 +16,7 @@ const Hero = () => {
           color.
         </p>
         <div >
-          <button className="banner-btn1">Get Yours Now</button>
+          <Button>Get Yours Now</Button>
           <button className="banner-btn2">Reservation</button>
         </div>
       </div>

@@ -1,0 +1,31 @@
+.About-Container{
+    margin: 216px 220px 0;  
+}
+
+.About-images{
+    display: flex;
+    gap: 24px;
+}
+.About-images img{
+    width: 100%;
+}
+
+.About-Banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.About-title{
+    font-size: 54px;
+}
+.About-sub-title{
+    font-size: 28px;
+}
+.About-desc{
+    font-size: 22px;
+}
+.About-image2{
+    margin-top: 24px;
+}

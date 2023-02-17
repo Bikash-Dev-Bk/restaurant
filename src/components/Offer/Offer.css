@@ -1,0 +1,13 @@
+.Offer-Container{
+    margin: 216px 220px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+}
+
+.Offer-Container img:hover{
+    /* box-shadow: 10px 10px 8px 10px #888888; */
+}
+.Offer-Container img{
+    width: 100%;
+}
