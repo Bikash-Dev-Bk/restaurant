@@ -1,0 +1,62 @@
+.Hero-container{
+    display: flex;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 110%;
+}
+
+.banner-tag-line{
+    font-size: 22px;
+}
+
+.banner-title{
+    font-size: 67px;
+}
+
+.coffee{
+    font-size: 22px;
+    color:#AC8435;
+}
+
+.span2{
+    margin-left: 48px;
+}
+
+.banner-desc{
+    font-size: 22px;
+}
+
+.banner-btn1{
+    padding: 16px 40px;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    background-color: #AC8435;
+    color: white;
+}
+.banner-btn1:hover{
+    background-color: white;
+    color: #AC8435;
+    border: 1px solid #AC8435;
+}
+
+.banner-btn2{
+    margin-left: 23px;
+    padding: 15px 40px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+   
+}
+.banner-btn2:hover{
+    background-color: #AC8435;
+    color: white;
+    border: none;
+}
