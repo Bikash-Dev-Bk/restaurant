@@ -10,6 +10,9 @@ const PopularDrinks = () => {
       <h2 className="Drinks-Header">Our Most Popular Coffee</h2>
       <div className="Coffee-Container">
         
+
+
+        
         <div className="Coffee">
           <div className="Coffee-Header">
             <div>
@@ -31,6 +34,9 @@ const PopularDrinks = () => {
             <Button> <FaCartArrowDown/> Add</Button>
           </div>
         </div>
+
+
+
 
         <div className="Coffee">
           <div className="Coffee-Header">

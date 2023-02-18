@@ -1,0 +1,41 @@
+
+.Drinks-Section{
+    margin-bottom: 100px;
+}
+
+.Drinks-Category-Title{
+    font-size: 32px;
+    margin-bottom: 180px;
+}
+
+.Drinks-Category-Container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.Drinks-Category-Card{
+    background-image: url("../../../assets/images/pngegg\ \(10\)\ 2.png");
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.Drinks-Card-Info{
+    position: relative;
+    height: 424px;
+    width: 477px;
+}
+
+.Drinks-Card-Img{
+    position: absolute;
+    /* left: 140px; */
+    bottom: 80px;
+}
+.Drinks-Card-Title{
+    font-size: 32px;
+}
+.Drinks-Category-Image{
+    margin-left: 150px;
+}

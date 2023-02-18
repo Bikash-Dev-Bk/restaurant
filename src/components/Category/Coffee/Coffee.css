@@ -1,0 +1,38 @@
+
+.Coffee-Section{
+    margin-bottom: 100px;
+}
+
+.Coffee-Category-Title{
+    font-size: 32px;
+    margin-bottom: 180px;
+}
+
+.Coffee-Category-Container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.Coffee-Category-Card{
+    background-image: url("../../../assets/images/pngegg\ \(10\)\ 2.png");
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.Coffee-Card-Info{
+    position: relative;
+    height: 424px;
+    width: 477px;
+}
+
+.Coffee-Card-Img{
+    position: absolute;
+    left: 140px;
+    bottom: 80px;
+}
+.Coffee-Card-Title{
+    font-size: 32px;
+}
