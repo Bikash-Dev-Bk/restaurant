@@ -1,0 +1,17 @@
+.Header-Top-Container{
+    padding: 0 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #403C34;
+    height: 64px;
+    color: white;
+    font-size: 18px;
+}
+.Right-Side{
+    display: flex;
+    align-items: center;
+}
+.Right-Side-Element{
+    margin-left: 24px;
+}

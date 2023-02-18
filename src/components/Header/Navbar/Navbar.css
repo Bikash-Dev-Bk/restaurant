@@ -1,17 +1,18 @@
 .header{
-    height: 80px;
-    background-color: #08a9a6;
+    padding: 0 220px;
+    height: 100px;
+    background-color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 120px;
-    padding-right: 120px;
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .header-name{
     display: flex;
     align-items: center;
     /* justify-content: ; */
-    color: white;
+    color: black;
 }
 .dumbbell{
     height: 50px;
@@ -20,11 +21,9 @@
 .header a{
     text-decoration: none;
     margin-left: 20px;
-    color: white;
+    color: black;
 }
-.header a:hover{
-    color: orange;
-}
+
 
 @media only screen and (max-width: 700px) {
     .header{
