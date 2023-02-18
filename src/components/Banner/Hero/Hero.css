@@ -1,7 +1,10 @@
 .Hero-container{
+    padding: 0 220px;
+    background-color: #F7F2E9;
     display: flex;
     align-items: center;
 }
+
 .half-width{
     width: 50%;
 }

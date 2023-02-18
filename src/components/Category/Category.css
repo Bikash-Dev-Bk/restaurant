@@ -1,5 +1,6 @@
-.Category-Container{
-    margin: 216px 220px 0;  
+.Category-Container{  
+    padding: 216px 220px 0;
+    background-color: #F7F2E9;
 }
 .Category-Title{
     text-align: center;

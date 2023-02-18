@@ -1,53 +1,52 @@
-.Drinks-Container{
-    margin: 216px 220px 0;  
+.Drinks-Container {
+  padding: 216px 220px 0;
+  background-color: #f7f2e9;
 }
 
-.Drinks-Header{
-    text-align: center;
-    font-size: 54px;
+.Drinks-Header {
+  text-align: center;
+  font-size: 54px;
 }
 
-.Coffee-Container{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    justify-content: space-between;
-    gap: 24px;
-    
+.Coffee-Container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-between;
+  gap: 24px;
 }
-.Coffee{
-    margin-top: 300px;
-    background-image: url("../../assets/images/pngegg\ \(10\)\ 2.png");
-    border: 1px solid black;
-    border-radius: 5px;
-    padding: 40px 32px;
+.Coffee {
+  margin-top: 300px;
+  background-image: url("../../assets/images/pngegg\ \(10\)\ 2.png");
+  background-color: white;
+  border-radius: 5px;
+  padding: 40px 32px;
 }
-.Coffee-Header{
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-    
+.Coffee-Header {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
 }
-.Coffee-img{
-    position: absolute;
-    bottom: 20px;
-    left:190px;
+.Coffee-img {
+  position: absolute;
+  bottom: 20px;
+  left: 190px;
 }
-.Coffee-Info{
-    text-align: center;
+.Coffee-Info {
+  text-align: center;
 }
 
-.Coffee-Title{
-    font-size: 32px;
+.Coffee-Title {
+  font-size: 32px;
 }
-.Coffee-Desc{
-    font-size: 22px;
+.Coffee-Desc {
+  font-size: 22px;
 }
 
-.Drinks-Footer{
-    display: flex;
-    justify-content: space-between;
-    font-size: 22px;
+.Drinks-Footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 22px;
 }
-.Golden-Color{
-    color: #AC8435;
+.Golden-Color {
+  color: #ac8435;
 }

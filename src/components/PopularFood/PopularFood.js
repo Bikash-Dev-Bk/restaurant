@@ -198,7 +198,6 @@ const PopularFood = () => {
               <span className="Golden-Color">10%</span> Off for new Customer
             </p>
             <Button>
-              {" "}
               <FaCartArrowDown /> Add
             </Button>
           </div>

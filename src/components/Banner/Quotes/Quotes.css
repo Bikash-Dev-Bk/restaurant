@@ -1,6 +1,10 @@
 .quotes{
     margin-top: 104px;
     text-align: center;
+    margin-bottom: 120px;
+    background-image: url("../../../assets/images/review-bg.png");
+    background-position: no-repeat;
+    background-size: 120% 120%;
 }
 .quotes-title{
     font-size: 54px;

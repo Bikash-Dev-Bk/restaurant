@@ -1,6 +1,7 @@
 
-.Reservation-Container{
-    margin: 216px 220px;  
+.Reservation-Container{  
+    padding: 216px 220px;
+    background-color: #F7F2E9;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 24px;

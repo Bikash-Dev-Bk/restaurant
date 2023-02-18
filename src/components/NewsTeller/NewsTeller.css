@@ -1,0 +1,25 @@
+.NewsTeller-Container{
+    padding: 216px 220px; 
+    background-color: #F7F2E9; 
+    text-align: center;
+}
+.NewsTeller-Title{
+    font-size: 54px;
+}
+.Subscribe-Button {
+    margin-left: 24px;
+}
+.NewsTeller-Input{
+    font-size: 18px;
+    padding: 13px;
+    border-radius: 4px;
+    width: 440px;
+    border: none;
+}
+.NewsTeller-Footer{
+    font-size: 22px;
+}
+.NewsTeller-Footer-Span{
+    color: #AC8435;
+    text-decoration: underline;
+}

@@ -1,5 +1,6 @@
-.ShowCase-Container{
-    margin: 216px 220px;  
+.ShowCase-Container{  
+    padding: 216px 220px 0;
+    background-color: #F7F2E9;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
