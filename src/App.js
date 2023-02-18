@@ -6,6 +6,7 @@ import Header from './components/Header/Header';
 import Offer from './components/Offer/Offer';
 import PopularFood from './components/PopularFood/PopularFood';
 import PopularDrinks from './components/PopulerDrinks/PopularDrinks';
+import Reservation from './components/Reservation/Reservation';
 import ShowCase from './components/Showcase/ShowCase';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <PopularFood></PopularFood>
       <Category></Category>
       <ShowCase></ShowCase>
+      <Reservation></Reservation>
     </div>
   );
 }

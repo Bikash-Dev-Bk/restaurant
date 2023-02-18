@@ -1,0 +1,19 @@
+
+.Reservation-Container{
+    margin: 216px 220px;  
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+}
+.Reservation-Card-Title{
+    font-size: 32px;
+}
+.Reservation-Card-Desc{
+    font-size: 22px;
+}
+.Bottom-Image{
+    text-align: center;
+}
+.Book-Button{
+    margin-top: 40px;
+}
