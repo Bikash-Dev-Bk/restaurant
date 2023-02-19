@@ -16,8 +16,13 @@
     background-color: white;
     border-radius: 5px;
     text-align: center;
-    
 }
+
+.Drinks-Category-Card:hover{
+    transition: .25s;
+    transform: scale(1.05);
+}
+
 .Drinks-Card-Info{
     position: relative;
     height: 424px;

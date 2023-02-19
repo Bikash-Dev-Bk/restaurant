@@ -21,6 +21,10 @@
   border-radius: 5px;
   padding: 40px 32px;
 }
+.Coffee:hover {
+    transition: .25s;
+    transform: scale(1.05); 
+}
 .Coffee-Header {
   display: flex;
   justify-content: space-between;

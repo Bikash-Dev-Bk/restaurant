@@ -19,8 +19,11 @@
     background-image: url("../../../assets/images/pngegg\ \(10\)\ 2.png");
     background-color: white;
     border-radius: 5px;
-    text-align: center;
-    
+    text-align: center; 
+}
+.Food-Category-Card:hover{
+    transition: .25s;
+    transform: scale(1.05);
 }
 .Food-Card-Info{
     position: relative;

@@ -9,7 +9,6 @@ const PopularDrinks = () => {
     <div className="Drinks-Container">
       <h2 className="Drinks-Header">Our Most Popular Coffee</h2>
       <div className="Coffee-Container">
-        
         <div className="Coffee">
           <div className="Coffee-Header">
             <div>

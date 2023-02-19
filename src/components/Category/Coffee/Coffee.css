@@ -19,9 +19,14 @@
     background-image: url("../../../assets/images/pngegg\ \(10\)\ 2.png");
     background-color: white;
     border-radius: 5px;
-    text-align: center;
-    
+    text-align: center;   
+    transform: scale(1);
 }
+.Coffee-Category-Card:hover{
+    transition: .25s;
+    transform: scale(1.05);
+}
+
 .Coffee-Card-Info{
     position: relative;
     height: 424px;
@@ -33,6 +38,7 @@
     left: 140px;
     bottom: 80px;
 }
+
 .Coffee-Card-Title{
     font-size: 32px;
 }

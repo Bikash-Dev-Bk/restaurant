@@ -26,6 +26,10 @@
     border-radius: 5px;
     padding: 40px 32px;
 }
+.Meal:hover{
+    transition: .25s;
+    transform: scale(1.05); 
+}
 .Meal-Header{
     display: flex;
     justify-content: space-between;
