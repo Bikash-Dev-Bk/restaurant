@@ -27,7 +27,7 @@ const PopularDrinks = () => {
             </p>
           </div>
           <div className="Drinks-Footer">
-            <p ><span className="Golden-Color">10%</span> Off for new Customer</p>
+            <p className="Drinks-Footer-p"><span className="Golden-Color">10%</span> Off for new Customer</p>
             <Button> <FaCartArrowDown/> Add</Button>
           </div>
         </div>

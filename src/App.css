@@ -1,10 +1,17 @@
+/* --------------------------------------
+                   fonts
+---------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+
+
 .Container{
   width: 1920px;
   margin: 0;
   padding: 0;
+  font-family: 'Mulish', sans-serif;
 }
-
-
 
 .App {
   text-align: center;

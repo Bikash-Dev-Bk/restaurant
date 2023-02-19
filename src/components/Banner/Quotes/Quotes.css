@@ -1,11 +1,21 @@
-.quotes{
-    margin-top: 104px;
-    text-align: center;
-    margin-bottom: 120px;
+.Quotes-Container{
+    padding: 104px 220px 0;
+    padding-bottom: 120px;
     background-image: url("../../../assets/images/review-bg.png");
     background-position: no-repeat;
-    background-size: 120% 120%;
+    background-size: 100% 100%;
+    text-align: center;
 }
-.quotes-title{
+.Top{
+    margin-right: 850px;
+}
+
+.Quotes-title{
     font-size: 54px;
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+}
+.Quotes-Img{
+    margin-top: 16px;
 }
