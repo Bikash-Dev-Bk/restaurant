@@ -1,45 +1,44 @@
-
-.Navbar{
-    padding: 0 220px;
-    height: 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: black;
+.Navbar {
+  padding: 0 220px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  background-color: white;
+  position: sticky;
+  top: 0;
 }
 
-
-.Navbar a{
-    text-decoration: none;
-    margin-left: 20px;
-    color: black;
+.Navbar a {
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;
 }
 
-.Navbar-Right{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.Navbar-Right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.Navbar-Right>div{
-    margin-left: 36px;
+.Navbar-Right > div {
+  margin-left: 36px;
 }
-.Navbar-icons{
-    display: flex;
-    align-items: center;
+.Navbar-icons {
+  display: flex;
+  align-items: center;
 }
-.Navbar-icons p{
-    margin: 0 10px;
+.Navbar-icons p {
+  margin: 0 10px;
 }
-
 
 @media only screen and (max-width: 700px) {
-    .Navbar{
-        display: flex;
-        flex-direction: column;
-        padding : 0;
-        
-    }
-    .Navbar a{
-        display: none;
-    }
+  .Navbar {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
   }
+  .Navbar a {
+    display: none;
+  }
+}
