@@ -1,38 +1,45 @@
-.header{
+
+.Navbar{
     padding: 0 220px;
     height: 100px;
-    background-color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: black;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-.header-name{
-    display: flex;
-    align-items: center;
-    /* justify-content: ; */
-    color: black;
-}
-.dumbbell{
-    height: 50px;
 }
 
-.header a{
+
+.Navbar a{
     text-decoration: none;
     margin-left: 20px;
     color: black;
 }
 
+.Navbar-Right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Navbar-Right>div{
+    margin-left: 36px;
+}
+.Navbar-icons{
+    display: flex;
+    align-items: center;
+}
+.Navbar-icons p{
+    margin: 0 10px;
+}
+
 
 @media only screen and (max-width: 700px) {
-    .header{
+    .Navbar{
         display: flex;
         flex-direction: column;
         padding : 0;
         
     }
-    .header a{
+    .Navbar a{
         display: none;
     }
   }
