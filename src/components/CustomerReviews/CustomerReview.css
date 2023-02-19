@@ -12,5 +12,33 @@
 }
 .Review-Text{
     font-size: 32px;
+    display: inline-block;
+    margin: 0;
     text-align: center;
+}
+.Reviewer{
+    font-size: 28px;
+}
+.Review-Stars span{
+    font-size: 24px;
+    color: #AC8435;
+    margin-left: 8px;
+}
+.Review-Footer{
+    display: flex;
+    align-items: center;
+}
+.Verify{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+}
+.Verify p{
+    font-size: 22px;
+}
+.Social-Icon{
+    margin-left: 72px;
+}
+.Social-Icon img{
+    margin-left: 24px;
 }
